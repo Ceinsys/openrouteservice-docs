@@ -23,7 +23,7 @@ tags:
 schemes:
 - "https"
 produces:
-- "text/json; charset=utf-8"
+- "application/json; charset=utf-8"
 security:
 - UserSecurity: [api_key]
 paths:
